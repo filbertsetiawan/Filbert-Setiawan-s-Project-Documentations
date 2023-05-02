@@ -1,0 +1,129 @@
+<?xml version="1.0"?>
+<menus>
+  <menu>
+    <id>19</id>
+    <name>(Menu Name)</name>
+    <restaurant>30</restaurant>
+    <link>livesearchResult.php?menuName=(Menu Name)</link>
+  </menu>
+  <menu>
+    <id>5</id>
+    <name>Authentic Spanish Paella</name>
+    <restaurant>10</restaurant>
+    <link>livesearchResult.php?menuName=Authentic Spanish Paella</link>
+  </menu>
+  <menu>
+    <id>2</id>
+    <name>Ayam Geprek w/ Rice</name>
+    <restaurant>10</restaurant>
+    <link>livesearchResult.php?menuName=Ayam Geprek w/ Rice</link>
+  </menu>
+  <menu>
+    <id>1</id>
+    <name>Black Pepper Chicken Rice</name>
+    <restaurant>10</restaurant>
+    <link>livesearchResult.php?menuName=Black Pepper Chicken Rice</link>
+  </menu>
+  <menu>
+    <id>16</id>
+    <name>Bourbon</name>
+    <restaurant>20</restaurant>
+    <link>livesearchResult.php?menuName=Bourbon</link>
+  </menu>
+  <menu>
+    <id>15</id>
+    <name>Brandy</name>
+    <restaurant>20</restaurant>
+    <link>livesearchResult.php?menuName=Brandy</link>
+  </menu>
+  <menu>
+    <id>24</id>
+    <name>Brandy - Armagnac</name>
+    <restaurant>60</restaurant>
+    <link>livesearchResult.php?menuName=Brandy - Armagnac</link>
+  </menu>
+  <menu>
+    <id>23</id>
+    <name>Brandy - eau-de-vie</name>
+    <restaurant>20</restaurant>
+    <link>livesearchResult.php?menuName=Brandy - eau-de-vie</link>
+  </menu>
+  <menu>
+    <id>18</id>
+    <name>Champagne</name>
+    <restaurant>20</restaurant>
+    <link>livesearchResult.php?menuName=Champagne</link>
+  </menu>
+  <menu>
+    <id>12</id>
+    <name>Gin</name>
+    <restaurant>20</restaurant>
+    <link>livesearchResult.php?menuName=Gin</link>
+  </menu>
+  <menu>
+    <id>3</id>
+    <name>Hong Kong Fried Rice</name>
+    <restaurant>10</restaurant>
+    <link>livesearchResult.php?menuName=Hong Kong Fried Rice</link>
+  </menu>
+  <menu>
+    <id>4</id>
+    <name>Indonesian-style Yellow Rice</name>
+    <restaurant>10</restaurant>
+    <link>livesearchResult.php?menuName=Indonesian-style Yellow Rice</link>
+  </menu>
+  <menu>
+    <id>9</id>
+    <name>Italian-style Risotto</name>
+    <restaurant>10</restaurant>
+    <link>livesearchResult.php?menuName=Italian-style Risotto</link>
+  </menu>
+  <menu>
+    <id>7</id>
+    <name>Korean Bibimbap &#xBE44;&#xBE54;&#xBC25;</name>
+    <restaurant>10</restaurant>
+    <link>livesearchResult.php?menuName=Korean Bibimbap &#xBE44;&#xBE54;&#xBC25;</link>
+  </menu>
+  <menu>
+    <id>8</id>
+    <name>Louisiana Jambalaya</name>
+    <restaurant>10</restaurant>
+    <link>livesearchResult.php?menuName=Louisiana Jambalaya</link>
+  </menu>
+  <menu>
+    <id>6</id>
+    <name>Malaysian-style Nasi Lemak</name>
+    <restaurant>10</restaurant>
+    <link>livesearchResult.php?menuName=Malaysian-style Nasi Lemak</link>
+  </menu>
+  <menu>
+    <id>14</id>
+    <name>Rum</name>
+    <restaurant>20</restaurant>
+    <link>livesearchResult.php?menuName=Rum</link>
+  </menu>
+  <menu>
+    <id>17</id>
+    <name>Scotch</name>
+    <restaurant>20</restaurant>
+    <link>livesearchResult.php?menuName=Scotch</link>
+  </menu>
+  <menu>
+    <id>13</id>
+    <name>Tequila</name>
+    <restaurant>20</restaurant>
+    <link>livesearchResult.php?menuName=Tequila</link>
+  </menu>
+  <menu>
+    <id>11</id>
+    <name>Vodka</name>
+    <restaurant>20</restaurant>
+    <link>livesearchResult.php?menuName=Vodka</link>
+  </menu>
+  <menu>
+    <id>10</id>
+    <name>Whiskey</name>
+    <restaurant>20</restaurant>
+    <link>livesearchResult.php?menuName=Whiskey</link>
+  </menu>
+</menus>

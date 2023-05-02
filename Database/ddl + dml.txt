@@ -1,0 +1,35 @@
+create table customer (
+	id_customer serial primary key,
+	nama_customer varchar(30) not null,
+	alamat_customer varchar(50) not null,
+	no_telp_customer varchar(15) not null
+);
+create table rumahmakan (
+	id_rumah_makan serial primary key,
+	nama_rumah_makan varchar(30) not null,
+	alamat_rumah_makan varchar(50) not null,
+	no_telp_rumah_makan varchar(15) not null
+);
+create table penyediabarang (
+	id_penyedia_barang serial primary key,
+	nama_penyedia_barang varchar(30) not null,
+	alamat_penyedia_barang varchar(50) not null,
+	no_telp_penyedia_barang varchar(15) not null
+);
+create table driver (
+	id_driver serial primary key, 
+	nama_driver varchar(30) not null,
+	plat_nomor_driver varchar(10)
+);
+create table transaksi (
+	kode_transaksi serial primary key,
+	nama_transaksi varchar(30) not null,
+	tanggal_transaksi date not null,
+	metode_pembayaran varchar(20),
+	jumlah_transaksi int check (jumlah_transaksi > 0),
+	id_customer serial references customer(id_customer),
+	id_rumah_makan serial references rumahmakan(id_rumah_makan),
+	id_penyedia_barang serial references penyediabarang(id_penyedia_barang)
+);
+alter table transaksi alter column id_rumah_makan drop not null;
+alter table transaksi alter column id_penyedia_barang drop not null;

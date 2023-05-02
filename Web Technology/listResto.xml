@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<restaurants>
+  <restaurant>
+    <id>10</id>
+    <name>Rice Bistro - West Branch</name>
+    <link>menu.php?restName=Rice Bistro - West Branch</link>
+  </restaurant>
+  <restaurant>
+    <id>20</id>
+    <name>Starbucks - Manyar Kertoarjo</name>
+    <link>menu.php?restName=Starbucks - Manyar Kertoarjo</link>
+  </restaurant>
+  <restaurant>
+    <id>30</id>
+    <name>Burger King - Pakuwon Mall</name>
+    <link>menu.php?restName=Burger King - Pakuwon Mall</link>
+  </restaurant>
+  <restaurant>
+    <id>40</id>
+    <name>Subway - Galaxy Mall 3</name>
+    <link>menu.php?restName=Subway - Galaxy Mall 3</link>
+  </restaurant>
+  <restaurant>
+    <id>50</id>
+    <name>KFC - Basuki Rachmat</name>
+    <link>menu.php?restName=KFC - Basuki Rachmat</link>
+  </restaurant>
+  <restaurant>
+    <id>60</id>
+    <name>Starbucks - Ngagel</name>
+    <link>menu.php?restName=Starbucks - Ngagel</link>
+  </restaurant>
+  <restaurant>
+    <id>70</id>
+    <name>Sushi Tei - Tunjungan Plaza 5</name>
+    <link>menu.php?restName=Sushi Tei - Tunjungan Plaza 5</link>
+  </restaurant>
+  <restaurant>
+    <id>80</id>
+    <name>Llaollao - Pakuwon City Mall</name>
+    <link>menu.php?restName=Llaollao - Pakuwon City Mall</link>
+  </restaurant>
+  <restaurant>
+    <id>90</id>
+    <name>Peneleh Restaurant</name>
+    <link>menu.php?restName=Peneleh Restaurant</link>
+  </restaurant>
+  <restaurant>
+    <id>100</id>
+    <name>Jagalan Restaurant</name>
+    <link>menu.php?restName=Jagalan Restaurant</link>
+  </restaurant>
+  <restaurant>
+    <id>110</id>
+    <name>Raya Dharmawangsa Restaurant</name>
+    <link>menu.php?restName=Raya Dharmawangsa Restaurant</link>
+  </restaurant>
+  <restaurant>
+    <id>120</id>
+    <name>Tunjungan Restaurant</name>
+    <link>menu.php?restName=Tunjungan Restaurant</link>
+  </restaurant>
+  <restaurant>
+    <id>130</id>
+    <name>Pasar Pabean Restaurant</name>
+    <link>menu.php?restName=Pasar Pabean Restaurant</link>
+  </restaurant>
+  <restaurant>
+    <id>140</id>
+    <name>Jembatan Merah Restaurant</name>
+    <link>menu.php?restName=Jembatan Merah Restaurant</link>
+  </restaurant>
+  <restaurant>
+    <id>150</id>
+    <name>Kertajaya Restaurant</name>
+    <link>menu.php?restName=Kertajaya Restaurant</link>
+  </restaurant>
+</restaurants>
